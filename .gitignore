@@ -1,5 +1,9 @@
 # Byte-compiled / optimized / DLL files
+profile_default/
+ipython_config.py
+
 __pycache__/
+
 *.py[cod]
 *$py.class
 
